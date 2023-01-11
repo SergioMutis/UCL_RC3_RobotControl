@@ -1,7 +1,7 @@
 ## TITLE: UCL_RC3_RobotControl
 
 ## Description:
-This project prodives a number of pipelines to control Dynamixel AX servo motors:
+This project provides a number of pipelines to control Dynamixel AX servo motors:
 - Pipeline #1 Cabled Python Control via USB
 - Pipeline #2 Wireless Python Control via Raspberry Pi
 - Pipeline #3 Wireless Unity Control via Raspberry Pi
@@ -20,7 +20,7 @@ Before using any of the pipelines, beyond basic development software, it is reco
 Check https://unitylist.com/p/spm/DXL-AX-12-A for more info on Justin Moon's Unity >> Raspberry Pi >> Dynamixel servo control pipeline via udp protocol.
 
 ## Usage B:
-The scripts are meant to be duplicated and edited to generate project-specific control apps (particularly for robotic projects)
+The scripts are meant to be duplicated and edited to generate project-specific control apps (particularly for robotic projects).
 The repository provides an example of this, 'dxl_a12_usb_control_1-generic.py' was duplicated and adapted into 'dxl_a12_usb_control_2-DH.py' 
 for the Diffusive Habitats project, which also required a custom method library 'DH_project_specific_methods'. 
 
