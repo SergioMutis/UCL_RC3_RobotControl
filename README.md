@@ -7,11 +7,11 @@ This project prodives a number of pipelines to control Dynamixel AX servo motors
 - Pipeline #3 Wireless Unity Control via Raspberry Pi
 
 ## Setup:
-Before using any of the pipelines, beyond basic development software, it is recommended to install Dynamixel Wizard from http://www.dynamixel.com/
+Before using any of the pipelines, beyond basic development software, it is recommended to install Dynamixel Wizard. Check http://www.dynamixel.com/ to download Dynamixel Wizard and https://robotis.co.uk/dynamixel to learn the proper way to setup the Dynamixel circuit.
 - Pipeline #1 requires: (1+) Dynamixel AX servo motor, (1) U2D2 Power Hub, (1) U2D2, (1) computer.
 - Pipeline #2 requires: (1+) Dynamixel AX servo motor, (1) U2D2 Power Hub, (1) U2D2, (1) computer, (1) Raspberry Pi.
 - Pipeline #3 requires: (1+) Dynamixel AX servo motor, (1) U2D2 Power Hub, (1) U2D2, (1) computer, (1) Raspberry Pi, and Unity3D (software installation)
-Check http://www.dynamixel.com/ or https://robotis.co.uk/dynamixel to learn the proper way to setup the Dynamixel circuit.
+
 
 ## Usage A:
 - Pipeline #1 is enabled by running the 'dxl_a12_usb_control_1-generic.py' script.
