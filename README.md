@@ -17,7 +17,7 @@ Before using any of the pipelines, beyond basic development software, it is reco
 - Pipeline #1 is enabled by running the 'dxl_a12_usb_control_1-generic.py' script.
 - Pipeline #2 is enabled by running the 'dxl_control_osc' script.
 - Pipeline #3 is enabled by running a Unity app constructed around the scripts provided. 
-Check https://unitylist.com/p/spm/DXL-AX-12-A for more info on Justin Moon's Unity >> Raspberry Pi >> Dynamixel servo control pipeline via udp protoco
+Check https://unitylist.com/p/spm/DXL-AX-12-A for more info on Justin Moon's Unity >> Raspberry Pi >> Dynamixel servo control pipeline via udp protocol.
 
 ## Usage B:
 The scripts are meant to be duplicated and edited to generate project-specific control apps (particularly for robotic projects)
