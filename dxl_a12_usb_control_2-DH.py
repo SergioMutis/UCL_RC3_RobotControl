@@ -16,7 +16,7 @@ import DH_project_specific_methods
 DEVICENAME = 'com3'
 
 # Initializing Motors
-motor_count = 4
+motor_count = 17
 connected_motors = [i for i in range(motor_count)]
 motor_controller = AX12a(DEVICENAME)
 
